@@ -5,15 +5,6 @@ this is the first program exercise for the machine learning.
 
 
 
-
-
-
-
-
-
-== 
-==                                   Part Name |     Score | Feedback
-==                                   --------- |     ----- | --------
 ==                            Warm-up Exercise |  10 /  10 | Nice work!
 ==           Computing Cost (for One Variable) |  40 /  40 | Nice work!
 ==         Gradient Descent (for One Variable) |  50 /  50 | Nice work!
@@ -23,7 +14,11 @@ this is the first program exercise for the machine learning.
 ==                            Normal Equations |   0 /   0 | 
 ==                                   --------------------------------
 ==                                             | 100 / 100 | 
-== 
->> 
+==
+
+
+
+
+
 
 
